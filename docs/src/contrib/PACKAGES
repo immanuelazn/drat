@@ -26,3 +26,13 @@ Suggests: testthat, knitr, rmarkdown, BSgenome.Hsapiens.UCSC.hg19
 License: GPL-3 + file LICENSE
 MD5sum: 5f24377e8a8e490a1f494461913b13b0
 NeedsCompilation: yes
+
+Package: TFMPvalue
+Version: 1.0.0
+Depends: R (>= 3.0.1)
+Imports: Rcpp(>= 0.11.1)
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-2
+MD5sum: 2a4de903fa5119022063b12b95fe5404
+NeedsCompilation: yes
